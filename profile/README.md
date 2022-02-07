@@ -3,7 +3,7 @@
 a android based on AOSP with Minimalist UI Design.
 
 ### Official Git Organization
-- [xdroid Official Devices](https://github.com/xdroid-oss)
+- [xdroid Official Devices](https://github.com/xdroid-devices)
 - [xdroidOSS](https://github.com/xdroid-oss)
 - [xdroidCAF](https://github.com/xdroid-CAF)
 
