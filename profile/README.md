@@ -1,5 +1,5 @@
 ![XD](https://github.com/xyz-prjkt/xyz_assets/raw/main/xd_main.png)
-# xdOSS | xdroid Open Source Software
+# xdroidOSS | xdroid Open Source Software
 a android based on AOSP with Minimalist UI Design.
 
 ### Official Git Organization
