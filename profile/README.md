@@ -1,7 +1,7 @@
 ![XD](https://github.com/xyz-prjkt/xyz_assets/raw/main/xd_main.png)
 # xdroidOSS | xdroid Open Source Software
 
-a android based on AOSP with Minimalist UI Design.
+an android based on AOSP with Minimalist UI Design.
 
 ### Quick Source Initialization ###
 ```bash
