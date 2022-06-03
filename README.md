@@ -1,4 +1,4 @@
-![XD](https://github.com/xyz-prjkt/xyz_assets/raw/main/xd_main.png)
+![XD](https://github.com/xdroid-oss/.github/raw/main/banner.png)
 # xdOSS | xdroid Open Source Software
 a android based on AOSP with Minimalist UI Design.
 
