@@ -18,12 +18,12 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 [More build information](https://github.com/xdroid-oss/xd_manifest)
 
-![git](https://github.com/xdroid-oss/.github/raw/main/git.png)
+### Official Git Organization
 - [xdroidOSS Official Devices](https://github.com/xdroid-devices)
 - [xdroidOSS](https://github.com/xdroid-oss)
 - [xdroidCAF](https://github.com/xdroid-CAF)
 
-![git](https://github.com/xdroid-oss/.github/raw/main/tg.png)
+### Official Telegram Chat & Channel
 - [xdroidOSS Newsletter](https://t.me/xdroid_news)
 - [xdroidOSS Chats](https://t.me/xdroid_chat)
 - [xdroidOSS Updates](https://t.me/xdroid_update)
