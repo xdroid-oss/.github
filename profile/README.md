@@ -8,11 +8,11 @@ xdroid is an AOSP-based custom Android ROM which is focusing on simple and minim
 
 ### Quick Source Initialization ###
 ```bash
-- **Release branch**
+- Release branch
 repo init -u https://github.com/xdroid-oss/xd_manifest -b twelve
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
-- **Development branch**
+- Development branch
 repo init -u https://github.com/xdroid-oss/xd_manifest -b twelve-dev
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
