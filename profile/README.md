@@ -1,4 +1,4 @@
-![XD](https://raw.githubusercontent.com/xdroid-oss/.github/55654e4a1b88977f60e2116d7cbeed17e87f450b/banner.png)
+![banner](https://raw.githubusercontent.com/xdroid-oss/.github/55654e4a1b88977f60e2116d7cbeed17e87f450b/banner.png)
 
 # xdroidOSS | xdroid Open Source Software
 
@@ -27,3 +27,5 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 - [xdroidOSS Newsletter](https://t.me/xdroid_news)
 - [xdroidOSS Chats](https://t.me/xdroid_chat)
 - [xdroidOSS Updates](https://t.me/xdroid_update)
+
+![footer](https://github.com/xdroid-oss/.github/raw/main/footer.png)
