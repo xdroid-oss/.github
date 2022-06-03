@@ -1,4 +1,4 @@
-![XD](https://github.com/xdroid-oss/.github/raw/main/banner.png)
+![XD](https://raw.githubusercontent.com/xdroid-oss/.github/55654e4a1b88977f60e2116d7cbeed17e87f450b/banner.png)
 [![Download xdroidOSS](https://img.shields.io/sourceforge/dt/xdroidoss.svg)](https://www.pling.com/p/1716794/) [![Download xdroidOSS](https://img.shields.io/sourceforge/dw/xdroidoss.svg)](https://www.pling.com/p/1716794/) [![Download xdroidOSS](https://img.shields.io/sourceforge/dm/xdroidoss.svg)](https://www.pling.com/p/1716794/)
 # xdroidOSS | xdroid Open Source Software
 
